@@ -1,4 +1,4 @@
-#include "../include/heapSort.h"
+#include "heapSort.h"
 
 int getLeftChild(int index) {
     return 2 * index + 1;
